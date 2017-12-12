@@ -41,7 +41,7 @@ eventbrite: 41238674987          # optional: alphanumeric key for Eventbrite reg
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="260px"
+  height="280px"
   scrolling="auto">
 </iframe>
 {% endif %}
